@@ -1,2 +1,2 @@
-# jsprojects
-Angular Projects
+# pyprojects
+Python Projects
